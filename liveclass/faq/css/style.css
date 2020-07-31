@@ -32,10 +32,6 @@ body {
     transition: .3s
 }
 
-li {
-    list-style: none;
-}
-
 h1,
 h2,
 h3,
@@ -57,14 +53,7 @@ a:active {
     font-family: 'Roboto', sans-serif;
 }
 
-ul {
-    margin: 0px;
-    padding: 0px
-}
 
-li {
-    list-style: none
-}
 
 p {
     font-size: 15px;
